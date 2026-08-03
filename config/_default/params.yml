@@ -34,7 +34,7 @@ author: panzhengyi
 email: panzhengyi@gmali.com
 description: "桃李不言下自成蹊"
 # subtitle: "桃李不言下自成蹊"
-avatar: "/images/avatar.jpg"
+avatar: "https://panzhengyi12.github.io/images/avatar.jpg"
 subtitle:
   typing:
     enable: false
