@@ -34,7 +34,7 @@ author: panzhengyi
 email: panzhengyi@gmali.com
 description: "桃李不言下自成蹊"
 # subtitle: "桃李不言下自成蹊"
-avatar: "images/avatar.jpg"
+avatar: "/images/avatar.jpg"
 subtitle:
   typing:
     enable: false
@@ -388,7 +388,7 @@ valine:
   appId: # leancloud application app id
   appKey: # leancloud application app key
   pageSize: 10 # comment list page size
-  avatar: mp # gravatar style https://valine.js.org/#/avatar
+  # avatar: mp # gravatar style https://valine.js.org/#/avatar  ← 已注释，避免与主头像冲突
   # lang: zh-cn # deprecated, use html.lang instead
   placeholder: Just go go # valine comment input placeholder(like: Please leave your footprints )
   guest_info: nick,mail,link #valine comment header info
