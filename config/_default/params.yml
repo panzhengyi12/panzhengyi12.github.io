@@ -69,7 +69,7 @@ banner_srcset:
     - src: "images/banner.webp"
       media: "(min-width: 800px)"
 
-# avatar: "avatar.webp"
+# avatar: "/images/avatar.jpg"
 # Control the display of the post cover
 # If not set, the banner image will be displayed by default
 # Its priority is lower than the cover in the Front-matter
