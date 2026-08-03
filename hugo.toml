@@ -2,3 +2,8 @@ baseURL = 'https://panzhengyi12.github.io/'
 languageCode = 'zh-cn'
 title = '我的个人博客'
 theme = 'reimu'
+
+# 告诉 Hugo 从 config/_default/ 加载配置
+# [module]
+#   [[module.imports]]
+#     path = "themes/reimu"
