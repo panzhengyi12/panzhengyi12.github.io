@@ -34,7 +34,8 @@ author: panzhengyi
 email: panzhengyi@gamil.com
 description: "桃李不言下自成蹊"
 text: "桃李不言下自成蹊"
-avatar: "images/avatar.jpg"subtitle:
+avatar: "images/avatar.jpg"
+subtitle:
   typing:
     enable: false
     strings:
