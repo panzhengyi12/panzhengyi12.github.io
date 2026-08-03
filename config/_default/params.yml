@@ -31,9 +31,9 @@ dateFormat: "2006-01-02"
 timeFormat: "2006-01-02 15:04:05"
 
 author: panzhengyi
-email: panzhengyi@gamil.com
+email: panzhengyi@gmali.com
 description: "桃李不言下自成蹊"
-text: "桃李不言下自成蹊"
+# subtitle: "桃李不言下自成蹊"
 avatar: "images/avatar.jpg"
 subtitle:
   typing:
