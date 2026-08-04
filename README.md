@@ -2,7 +2,7 @@
 
 本项目所使用的网站主题基于 **[hugo-theme-reimu]** 修改/转载，原作者为 **[💘 博麗 霊夢 💘]**。
 
-- **原始项目**：[hugo-theme-reimu](原始仓库URL：https://github.com/D-Sketon/hugo-theme-reimu)
+- **原始项目**：[hugo-theme-reimu] (原始仓库URL：https://github.com/D-Sketon/hugo-theme-reimu)
 - **原作者**：[💘 博麗 霊夢 💘]
 - **原始许可证**：[ MIT License  Copyright (c) 2024 D-Sketon]
 
