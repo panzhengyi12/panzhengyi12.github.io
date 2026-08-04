@@ -22,7 +22,7 @@ menu:
 friends:
   shuffle: false  # whether to shuffle the friend links
 
-mainSections: ["post"]
+mainSections: ["posts"]
 # 年，月，日及时间的格式化样式
 # Format style for year,month,date & time
 yearFormat: "2006"
@@ -199,8 +199,8 @@ sort_order:
 
 # Pagination
 paginate:
-  archive: # Number of posts per page in archive and taxonomy pages
-  post: # Number of posts per page in home and other list pages
+  archive: # 10
+  post: # 10
 
 ########################################
 # CSS
