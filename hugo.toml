@@ -7,3 +7,13 @@ theme = 'reimu'
 # [module]
 #   [[module.imports]]
 #     path = "themes/reimu"
+
+[params]
+  custom_css = ["css/custom.scss"]
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+    style = "monokai"

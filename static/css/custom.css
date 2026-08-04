@@ -1,0 +1,17 @@
+/* 修复代码块黑色背景遮挡文字的问题 */
+.highlight {
+    background-color: #2d2d2d !important;
+    color: #f8f8f2 !important;
+}
+
+code {
+    background-color: #f0f0f0 !important;
+    color: #c7254e !important;
+    padding: 0.2em 0.4em !important;
+    border-radius: 3px !important;
+}
+
+body.dark-mode code {
+    background-color: #2d2d2d !important;
+    color: #f8f8f2 !important;
+}
