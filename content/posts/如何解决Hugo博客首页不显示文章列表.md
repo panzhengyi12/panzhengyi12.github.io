@@ -1,12 +1,12 @@
 ---
-
-```markdown
----
 title: Hugo 博客首页不显示文章列表？reimu 主题配置详解
 date: 2026-08-04
 categories: [博客搭建]
 tags: [Hugo, reimu, 配置, GitHub Pages]
 ---
+文章内容...
+
+
 
 ## 问题现象
 
