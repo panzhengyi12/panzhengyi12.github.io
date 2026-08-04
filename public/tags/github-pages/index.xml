@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub Pages on 我的个人博客</title>
-    <link>http://localhost:1313/tags/github-pages/</link>
+    <link>https://panzhengyi12.github.io/tags/github-pages/</link>
     <description>Recent content from 我的个人博客</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
@@ -15,7 +15,7 @@
     <lastBuildDate></lastBuildDate>
     
     
-    <atom:link href="http://localhost:1313/tags/github-pages/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="https://panzhengyi12.github.io/tags/github-pages/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     
