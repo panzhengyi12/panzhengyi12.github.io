@@ -11,7 +11,7 @@ theme = 'reimu'
 [params]
   custom_css = ["css/custom.scss"]
 
-[params]
+
   # 开启首页显示文章列表
   listOnHome = true
   # 指定文章来源的文件夹（改成你存放 .md 文件的文件夹名）
